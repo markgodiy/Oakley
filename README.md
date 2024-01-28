@@ -17,19 +17,8 @@ water available all day
 
 | Date | PeePoo | Behavior |
 |-|-|-|
-|20240127|- 20240127
-	- 2000 big pee
-	- 1100 poop + little pee| Skittish. Probably got anxiety after bathing and blowdry. Started to show personality by night. |
-
-- 20240127
-	- 2000 big pee
-	- 1100 poop + little pee
-- 20240128
-	- 0230 poop + little pee
-	- 0700 poop + little pee
-	- 0730 poop + little pee
-	- 0850 pee only
+| 20240127 | 20240127; 2000 big pee; 1100 poop + little pee | Skittish. Probably got anxiety after bathing and blowdry. Started to show personality by night. |
+| 20240128 | 0230 poop + little pee; 0700 poop + little pee; 0730 poop + little pee; 0850 pee only | |
  
-## Behavior 
 
 -

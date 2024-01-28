@@ -1,6 +1,8 @@
 # Oakley
-New dog, new training, familiar experience
-Birthday
+
+New dog, new training, familiar experience 
+
+Birthday 20231128, 28NOV2023
 
 ## Feeding 
 water available all day

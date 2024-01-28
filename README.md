@@ -1,7 +1,6 @@
 # Oakley
 New dog, new training, familiar experience
-
-#Doggie
+Birthday
 
 ## Feeding 
 water available all day
@@ -12,6 +11,12 @@ water available all day
 |BreakFast|0700|
 |Lunch|1300|
 |Dinner|1900|
+
+## Weight
+
+|Date|Weight|
+|-|-|
+|20240128|1.3 Kg|
 
 ## Pee/Poop and Behavior History
 

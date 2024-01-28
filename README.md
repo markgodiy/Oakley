@@ -2,7 +2,7 @@
 
 New dog, new training, familiar experience 
 
-![Oakley](/images/oakley_profile.pngimage.png)
+![Oakley](/images/oakley_profile.png)
 
 Birthday: 20231128, 28NOV2023  
 Breed: Poodle + Bichon Fraise mix (Poochon, Bichpoo)  
